@@ -21,10 +21,9 @@ body, html {
   }
 
   .discord-logo {
-    width: auto; 
-    height: auto;
+    max-width: 100%;
     position: absolute;
-    top: 120px; 
+    top: 130px; 
     left: 630px; 
     z-index: 1;
   }
